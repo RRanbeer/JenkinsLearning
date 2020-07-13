@@ -11,7 +11,7 @@
 				<version>2.19</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>testng_EasyMyTrip.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
