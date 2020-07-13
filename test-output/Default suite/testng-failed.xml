@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="vivo.mobile.testing.app.LaunchApp">
+      <class name="vivo.mobile.testing.app.EasyMyTrip">
         <methods>
-          <include name="test_LaunchApp"/>
+          <include name="test_EasyMyTrip"/>
         </methods>
-      </class> <!-- vivo.mobile.testing.app.LaunchApp -->
+      </class> <!-- vivo.mobile.testing.app.EasyMyTrip -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
