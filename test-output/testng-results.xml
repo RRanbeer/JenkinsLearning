@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9288" started-at="2020-07-11T22:06:39Z" finished-at="2020-07-11T22:06:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9288" started-at="2020-07-11T22:06:39Z" finished-at="2020-07-11T22:06:48Z">
+      <class name="vivo.mobile.testing.app.LaunchApp">
+        <test-method status="PASS" signature="test_LaunchApp()[pri:0, instance:vivo.mobile.testing.app.LaunchApp@4de8b406]" name="test_LaunchApp" duration-ms="9264" started-at="2020-07-12T03:36:39Z" finished-at="2020-07-12T03:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LaunchApp -->
+      </class> <!-- vivo.mobile.testing.app.LaunchApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
