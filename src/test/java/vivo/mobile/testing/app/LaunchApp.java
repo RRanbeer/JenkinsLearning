@@ -15,7 +15,7 @@ public class LaunchApp
 	driver.manage().window().maximize();
 	driver.get("https://www.google.com/");
 	
-	System.out.println("Title of the WebPage --> ");
+	System.out.println("Title of the WebPage --> "+driver.getTitle());
 	
 	}
 }
