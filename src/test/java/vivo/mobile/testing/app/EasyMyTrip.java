@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class EasyMyTrip 
 {
 	@Test
-	public void test_EasyMyTrip() throws InterruptedException
+	public void test_EasyMyTrip()
 	{
 
 	//Handle Notification popup
